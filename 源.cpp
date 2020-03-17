@@ -200,7 +200,7 @@ next:
 
 int main() {     
 	initgraph(400, 400);
-	initgraph(400, 400, SHOWCONSOLE);
+	//initgraph(400, 400, SHOWCONSOLE);
 	InitGame();
 	system("color 3f");
 	system("mode con: cols=78 lines=20");
