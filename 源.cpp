@@ -13,6 +13,7 @@
 int n = 0;
 IMAGE wall,space,end,box,boxend,peo;
 
+
 // 0space  1wall  2end  3box  4peo
 int map[4][8][8] = {
     {{1,1,1,1,1,1,1,0},
